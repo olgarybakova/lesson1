@@ -1,0 +1,15 @@
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\bin\Debug\net6.0\exampl02.exe
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\bin\Debug\net6.0\exampl02.deps.json
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\bin\Debug\net6.0\exampl02.runtimeconfig.json
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\bin\Debug\net6.0\exampl02.dll
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\bin\Debug\net6.0\exampl02.pdb
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\exampl02.csproj.AssemblyReference.cache
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\exampl02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\exampl02.AssemblyInfoInputs.cache
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\exampl02.AssemblyInfo.cs
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\exampl02.csproj.CoreCompileInputs.cache
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\exampl02.dll
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\refint\exampl02.dll
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\exampl02.pdb
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\exampl02.genruntimeconfig.cache
+D:\Olga\GitBans\Program_kod\lesson1\exampl01\exampl02\obj\Debug\net6.0\ref\exampl02.dll
